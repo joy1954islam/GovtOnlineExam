@@ -20,15 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f057e94-0394-4f24-91fc-9fc32853b4fa" name="Default Changelist" comment="GovtOnlineExam">
-      <change afterPath="$PROJECT_DIR$/GovtOnlineExam/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GovtOnlineExam/users/templates/users/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GovtOnlineExam/users/templates/users/logout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GovtOnlineExam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GovtOnlineExam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GovtOnlineExam/media/default.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GovtOnlineExam/GovtOnlineExam/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/GovtOnlineExam/GovtOnlineExam/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GovtOnlineExam/GovtOnlineExam/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/GovtOnlineExam/GovtOnlineExam/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GovtOnlineExam/SuperAdmin/templates/SuperAdmin/SuperAdminNavbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/GovtOnlineExam/SuperAdmin/templates/SuperAdmin/SuperAdminNavbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GovtOnlineExam/SuperAdmin/templates/SuperAdmin/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/GovtOnlineExam/SuperAdmin/templates/SuperAdmin/navigation.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GovtOnlineExam/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/GovtOnlineExam/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GovtOnlineExam/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/GovtOnlineExam/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GovtOnlineExam/templates/carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/GovtOnlineExam/templates/carousel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GovtOnlineExam/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/GovtOnlineExam/users/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GovtOnlineExam/users/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GovtOnlineExam/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/GovtOnlineExam/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GovtOnlineExam/users/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/GovtOnlineExam/users/templates/users/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GovtOnlineExam/users/templates/users/logout.html" beforeDir="false" afterPath="$PROJECT_DIR$/GovtOnlineExam/users/templates/users/logout.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +57,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/GovtOnlineExam/users/templates/users" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/GovtOnlineExam/media" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\GovtOnlineExam\GovtOnlineExam\media" />
       <recent name="C:\Users\User\PycharmProjects\GovtOnlineExam\GovtOnlineExam\users\templates\users" />
     </key>
   </component>
@@ -80,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594741782883</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="GovtOnlineExam">
+      <created>1594799401535</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594799401535</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,13 +111,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="GovtOnlineExam" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="671" y="154" key="SettingsEditor" timestamp="1594795182921">
+    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595039424086">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="671" y="154" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594795182921" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1594741801858">
+    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595039424086" />
+    <state x="671" y="154" key="SettingsEditor" timestamp="1595041343021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594741801858" />
+    <state x="671" y="154" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595041343021" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1594799414194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594799414194" />
   </component>
 </project>
